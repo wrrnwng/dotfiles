@@ -19,6 +19,7 @@ PACKAGES=(
     python
     python3
     r
+    yarn
 )
 
 brew install ${PACKAGES[@]}
@@ -30,7 +31,6 @@ CASKS=(
     firefox
     font-source-code-pro
     google-chrome
-    google-drive
     iterm2
     rstudio
     slack
