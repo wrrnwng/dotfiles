@@ -24,6 +24,7 @@ PACKAGES=(
 brew install ${PACKAGES[@]}
 
 CASKS=(
+    anki
     alfred
     dropbox
     firefox
