@@ -27,6 +27,7 @@ brew install ${PACKAGES[@]}
 CASKS=(
     anki
     alfred
+    docker
     dropbox
     firefox
     font-source-code-pro
@@ -35,6 +36,7 @@ CASKS=(
     rstudio
     slack
     spectacle
+    thunderbird
     visual-studio-code
     1password
     1password-cli
