@@ -19,6 +19,7 @@ PACKAGES=(
     python
     python3
     r
+    watchman
     yarn
 )
 
@@ -27,12 +28,15 @@ brew install ${PACKAGES[@]}
 CASKS=(
     anki
     alfred
+    android-studio
+    discord
     docker
     dropbox
     firefox
     font-source-code-pro
     google-chrome
     iterm2
+    java
     rstudio
     slack
     spectacle
