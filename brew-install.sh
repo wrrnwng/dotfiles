@@ -26,9 +26,11 @@ PACKAGES=(
 brew install ${PACKAGES[@]}
 
 CASKS=(
+    anaconda
     anki
     alfred
     android-studio
+    calibre
     discord
     docker
     dropbox
