@@ -103,5 +103,8 @@ export NVM_DIR="$HOME/.nvm"
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+export PATH="/usr/local/anaconda3/bin:$PATH"
 
+alias emacs='emacs -nw '
 alias gpp='g++ -std=c++11'
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
