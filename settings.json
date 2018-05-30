@@ -1,0 +1,22 @@
+{
+    "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline",
+    "terminal.integrated.shell.osx": "zsh",
+    "terminal.integrated.shellArgs.osx": [],
+    "editor.formatOnSave": true,
+    "editor.minimap.maxColumn": 80,
+    "editor.rulers": [
+        80
+    ],
+    "editor.tabSize": 2,
+    "prettier.trailingComma": "all",
+    "python.pythonPath": "/usr/local/bin/python3.6",
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "[solidity]": {
+        "editor.tabSize": 4
+    },
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": -1,
+    "extensions.ignoreRecommendations": false
+}
